@@ -1,5 +1,3 @@
-[TOC]
-
 # animation库
 
 ## 引入
