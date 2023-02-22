@@ -20,7 +20,8 @@ permalink: /about/
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+-	微信:483662261
+-	地址:深圳
 
 ### Contact me
 
