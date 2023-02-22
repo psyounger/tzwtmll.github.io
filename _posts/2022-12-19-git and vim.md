@@ -1,6 +1,5 @@
 # git
 ## 常用
-
 ```js
 git push --force //强制推送，慎用
 git init 	//初始化
